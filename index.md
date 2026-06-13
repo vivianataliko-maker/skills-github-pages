@@ -2,8 +2,6 @@
 title: Welcome to my blog!
 ---
 
-# Welcome to my blog!
-
 ## The power of music
 
 ###### I will share the best bands and the best way to listen to their music for free
